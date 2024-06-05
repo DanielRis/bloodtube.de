@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "route": "/",
+        "redirect": "https://keinehalbendrinks.de/port-charlotte-blood-tubs/",
+        "statusCode": 302
+      }
+    ]
+}
